@@ -7,6 +7,7 @@ My solution for [Berkeley's CS188 Intro to AI Pacman Projects](https://ai.berkel
 - [searchAgents.py](./search/searchAgents.py)
 
 ## 2. [multiagent](./multiagent)
+#### Edited files
 - [multiAgents.py](./multiagent/multiAgents.py)
 - [pacman.py](./multiagent/pacman.py)
 - [game.py](./multiagent/game.py)
