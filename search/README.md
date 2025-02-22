@@ -1,4 +1,4 @@
-# Pacman Project 1
+# [search](https://ai.berkeley.edu/search.html)
 
 ## Απαντήσεις
 

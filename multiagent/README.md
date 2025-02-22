@@ -1,4 +1,4 @@
-# Pacman Project 2
+# [multiagend](https://ai.berkeley.edu/multiagent.html)
 
 ## Answers
 
