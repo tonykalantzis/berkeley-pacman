@@ -12,3 +12,5 @@ My solution for [Berkeley's CS188 Intro to AI Pacman Projects](https://ai.berkel
 - [pacman.py](./multiagent/pacman.py)
 - [game.py](./multiagent/game.py)
 - [util.py](./multiagent/util.py)
+
+![](./assets/pacman_game.gif)
